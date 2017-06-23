@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = 'http://texturegroup.org'
   spec.authors      = { 'Huy Nguyen' => 'huy@pinterest.com', 'Garrett Moon' => 'garrett@excitedpixel.com', 'Scott Goodson' => 'scottgoodson@gmail.com', 'Michael Schneider' => 'schneider@pinterest.com', 'Adlai Hollar' => 'adlai@pinterest.com' }
   spec.summary      = 'Smooth asynchronous user interfaces for iOS apps.'
-  spec.source       = { :git => 'https://github.com/TextureGroup/Texture.git', :tag => spec.version.to_s }
+  spec.source       = { :git => 'https://github.com/SnapsApp/Texture.git', :tag => spec.version.to_s }
   spec.module_name  = 'AsyncDisplayKit'
   spec.header_dir   = 'AsyncDisplayKit'
 
